@@ -23,5 +23,5 @@ while guess != jackpot:
     guess = int(input('Guess again:'))
     counter += 1
     
-print('Congrats, Right guess')
+print('Congrats!, Right guess')
 print("You took", counter , "attempts")
